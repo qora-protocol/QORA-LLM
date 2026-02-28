@@ -93,7 +93,9 @@ model-index:
 
 # QORA - Native Rust LLM Inference Engine
 
-# Downlod 🤗: https://huggingface.co/qoranet/QORA-LLM
+<img width="1395" height="926" alt="Screenshot 2026-02-27 174517" src="https://github.com/user-attachments/assets/b02d0a77-bf76-40fd-b61e-bb19dc868d88" />
+
+## Downlod 🤗: https://huggingface.co/qoranet/QORA-LLM
 
 Pure Rust inference engine for the SmolLM3-3B language model. No Python runtime, no CUDA, no external dependencies. Single executable + quantized weights = portable AI on any machine.
 
@@ -102,6 +104,7 @@ Pure Rust inference engine for the SmolLM3-3B language model. No Python runtime,
 | Property | Value |
 |----------|-------|
 | **Engine** | QORA (Pure Rust) |
+
 | **Base Model** | SmolLM3-3B (HuggingFaceTB/SmolLM3-3B) |
 | **Parameters** | 3.07 Billion |
 | **Quantization** | Q4 (4-bit symmetric, group_size=32) |
