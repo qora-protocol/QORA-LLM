@@ -267,6 +267,7 @@ def is_prime(n):
             return False
     return True
 ```
+Downlod 🤗: https://huggingface.co/qoranet/QORA-LLM
 
 | Metric | Value |
 |--------|-------|
